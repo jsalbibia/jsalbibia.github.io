@@ -1,7 +1,6 @@
 ## Intro 
 
-My name is Jullana Salbibia. I am a first year Education major studying at UMass Amherst.
-
+My name is Jullana Salbibia. I am a first year Education major studying at *UMass Amherst*. 
 
 
 ## QNQ Band -- Member
