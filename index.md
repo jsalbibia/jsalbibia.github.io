@@ -2,6 +2,8 @@
 
 My name is Jullana Salbibia. I am a first year Education major studying at UMass Amherst.
 
+
+
 ## QNQ Band -- Member
 `September 2016 - June 2019`
 Performed at football games in the marching band during the fall sports season
@@ -33,11 +35,6 @@ Kept track of scores during swim meets
 Published work in chapbook
 Team won 3rd place in MFA Slam competition
 
-## HYPER Robotics -- Member, Head of Marketing
-`September 2017 - Present`
-Established several marketing campaigns such as logo development, merchandise selection, and digital media presentations for student body
-Wrote an article that was published in The Quincy Sun
-
 ## People Of Color Student Union -- Member
 `September 2018 - Present`
 Presented in front of school faculty on how to better improve school in order to make it a safer environment for everyone
@@ -47,9 +44,15 @@ Presented in front of school faculty on how to better improve school in order to
 Learned knowledgeable information on museum artifacts that was presented to freshmen students
 Utilized using VTS (visual thinking strategies)
 
+## HYPER Robotics -- Member, Head of Marketing
+`September 2017 - July 2019`
+Established several marketing campaigns such as logo development, merchandise selection, and digital media presentations for student body
+Wrote an article that was published in The Quincy Sun
+![HYPER Pin](https://i.imgur.com/cNH8kZZ.png) 
+
 ## BoSTEM Scholars -- Scholar
 `July 2019 - August 2019`
-Accepted into MIT program
+Accepted into [MIT program](https://bostem.mit.edu/) 
 Learned condensed full year courses on Python coding, Physics, and Biochemistry
 Presented a project concerning epidemiology
 Project was chosen to be implemented into a school community with a sustainability plan
