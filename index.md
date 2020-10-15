@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## Intro 
 
-You can use the [editor on GitHub](https://github.com/jsalbibia/jsalbibia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jullana Salbibia. I am a first year Education major studying at UMass Amherst. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## QNQ Band -- Member
+`September 2016 - June 2019`
+Performed at football games in the marching band during the fall sports season
+Marched in multiple parades in front of numerous people
+Performed in the concert band for the rest of the school year
 
-### Markdown
+## QNQ Color Guard -- Member
+`April 2019 - November 2019`
+Performed at football games during the fall sports season
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Academic Decathlon -- Member
+`September 2016 - June 2019`
+Studied college level material
+Took subject tests at competitions
+Won 5th place in Art subject test during the 2017-2018 preliminary competition
 
-```markdown
-Syntax highlighted code block
+## Math Club -- Member, Treasurer
+`September 2017 - Present`
+Inducted into Mu Alpha Theta (Math National Honor Society) in 2018-2019 school year
+Voted into Treasurer position and kept track of finances
 
-# Header 1
-## Header 2
-### Header 3
+## QNQ Swim Team -- Member
+`December 2016 - Present`
+Participated in practices and swam multiple events in swim meets
+Kept track of scores during swim meets
 
-- Bulleted
-- List
+## Poetry Club -- Member
+`September 2018 - Present`
+Published work in chapbook
+Team won 3rd place in MFA Slam competition
 
-1. Numbered
-2. List
+## HYPER Robotics -- Member, Head of Marketing
+`September 2017 - Present`
+Established several marketing campaigns such as logo development, merchandise selection, and digital media presentations for student body
+Wrote an article that was published in The Quincy Sun
 
-**Bold** and _Italic_ and `Code` text
+## People Of Color Student Union -- Member
+`September 2018 - Present`
+Presented in front of school faculty on how to better improve school in order to make it a safer environment for everyone
 
-[Link](url) and ![Image](src)
-```
+## Docents Program -- Docent
+`November 2017 - November 2019`
+Learned knowledgeable information on museum artifacts that was presented to freshmen students
+Utilized using VTS (visual thinking strategies)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsalbibia/jsalbibia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## BoSTEM Scholars -- Scholar
+`July 2019 - August 2019`
+Accepted into MIT program
+Learned condensed full year courses on Python coding, Physics, and Biochemistry
+Presented a project concerning epidemiology
+Project was chosen to be implemented into a school community with a sustainability plan
